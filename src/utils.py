@@ -1,7 +1,5 @@
 import json
 from datetime import datetime
-from pprint import pprint
-from operator import itemgetter
 
 def load_operations():
     """Загружает список транзакций из файла operations.json"""
